@@ -1,0 +1,3 @@
+Name: Abhinab Guru
+Skills: HTML, CSS, JS, Python, MySql, UI/UX Design
+Email: abhinabguru@gmail.com
